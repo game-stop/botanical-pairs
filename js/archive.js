@@ -24,13 +24,7 @@ let indexCards = new Map();
 /* Map the cards to their collections in archive/ folder */
 
 /* card -> { directory } -> { files: format = directory name + sequencenumber, separator dash } */
-indexCards.set( 'assets/card1.jpg', new IndexCard( "1354909", ["-1" ]) );
-indexCards.set( 'assets/card23.jpg', new IndexCard("1354910", [ "-1"]) );
-indexCards.set( 'assets/card2.jpg', new IndexCard( "1356367", [ "-1"]) );
-indexCards.set( 'assets/card3.jpg', new IndexCard( "1364046", [ "-1"]) );
-indexCards.set( 'assets/card4.jpg', new IndexCard( "1369749", [ "-1"]) );
-indexCards.set( 'assets/card5.jpg', new IndexCard( "1369773", [ "-1"]) );
-indexCards.set( 'assets/card8.jpg', new IndexCard( "1373023", [ "-1"]) );
+//indexCards.set( 'assets/card1.jpg', new IndexCard( "1354909", ["-1" ]) );
 
 /*
 
